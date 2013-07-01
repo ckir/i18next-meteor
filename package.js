@@ -3,6 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-  api.add_files('i18next-1.6.0.min.js', ['client']);
+  api.add_files('i18next-1.6.3.js', ['client']);
 });
 

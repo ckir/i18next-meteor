@@ -1,9 +1,9 @@
 {
-  "name": "i18next-meteor",
+  "name": "i18next",
   "description": "i18next repackaged for Meteor",
   "homepage": "https://github.com/ckir/i18next-meteor.git",
   "author": "Costas Kirgoussios",
-  "version": "1.6.0",
+  "version": "1.6.3",
   "git": "https://github.com/ckir/i18next-meteor.git",
   "packages": {}
 }
